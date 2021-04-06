@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: c4cc80c45cf89bf4083c07e22e02b326
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4609410089153585275
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_0
+  - first:
+      213: 4849410292903662566
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_1
+  - first:
+      213: -6097830150159394280
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_2
+  - first:
+      213: 2961962532134757719
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_3
+  - first:
+      213: -6157605722682060465
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_4
+  - first:
+      213: 8708297079062961890
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_5
+  - first:
+      213: -3033242960617200817
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_6
+  - first:
+      213: 6864034498623751143
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_7
+  - first:
+      213: -6315997212787912876
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_8
+  - first:
+      213: 181301051679496844
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_9
+  - first:
+      213: -8027223672620042667
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_10
+  - first:
+      213: -4642483896626674231
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_11
+  - first:
+      213: 7434736056457237328
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_12
+  - first:
+      213: -2723771338159169334
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_13
+  - first:
+      213: 1763052717720423098
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_14
+  - first:
+      213: 3356806230392437679
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_15
+  - first:
+      213: 5244633105207322066
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_16
+  - first:
+      213: 8791188528806035685
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_17
+  - first:
+      213: -6601169358688390537
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_18
+  - first:
+      213: -6446151775496567293
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_19
+  - first:
+      213: 6036663326389692620
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_20
+  - first:
+      213: -3829552144712376440
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_21
+  - first:
+      213: -3624131396671115785
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_22
+  - first:
+      213: -5532300495038395115
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_23
+  - first:
+      213: -4738843589185980149
+    second: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 966
+        width: 217
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f16e312f51800c0800000000000000
+      internalID: -4609410089153585275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 967
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e355a6d7f09c4340800000000000000
+      internalID: 4849410292903662566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 966
+        width: 217
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a151f39c7206ba0800000000000000
+      internalID: -6097830150159394280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 970
+        width: 224
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755a8e5da310b1920800000000000000
+      internalID: 2961962532134757719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 742
+        width: 221
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f419f98383acb8aa0800000000000000
+      internalID: -6157605722682060465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 741
+        width: 218
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9e1c0e061ad870800000000000000
+      internalID: 8708297079062961890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 742
+        width: 218
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4325fe1991c7e5d0800000000000000
+      internalID: -3033242960617200817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_7
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 743
+        width: 222
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ce706203f14f50800000000000000
+      internalID: 6864034498623751143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 509
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4b61aff11958a0800000000000000
+      internalID: -6315997212787912876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 510
+        width: 217
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad2ce885c148200800000000000000
+      internalID: 181301051679496844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 510
+        width: 219
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55630ec8992999090800000000000000
+      internalID: -8027223672620042667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_11
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 510
+        width: 212
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c588123e75929fb0800000000000000
+      internalID: -4642483896626674231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 278
+        width: 213
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0531ceb6d0d7d2760800000000000000
+      internalID: 7434736056457237328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 280
+        width: 219
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e1ab2668333ad0800000000000000
+      internalID: -2723771338159169334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 277
+        width: 214
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba43001b1f977810800000000000000
+      internalID: 1763052717720423098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 273
+        width: 221
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabfb5e3b75c59e20800000000000000
+      internalID: 3356806230392437679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 27
+        width: 211
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5e22d950ea8c840800000000000000
+      internalID: 5244633105207322066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 30
+        width: 215
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e009f4a363900a70800000000000000
+      internalID: 8791188528806035685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_18
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 29
+        width: 219
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727f29517fe364a0800000000000000
+      internalID: -6601169358688390537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_19
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 27
+        width: 219
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30606450d1baa86a0800000000000000
+      internalID: -6446151775496567293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 28
+        width: 218
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e51ecf4986c350800000000000000
+      internalID: 6036663326389692620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_21
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 278
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f559d3d92badac0800000000000000
+      internalID: -3829552144712376440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 511
+        width: 223
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fde31a32bf74bdc0800000000000000
+      internalID: -3624131396671115785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_23
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 740
+        width: 219
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dc48ad2025933b0800000000000000
+      internalID: -5532300495038395115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 77734824-cartoon-buttons-set-game-vector-illustration-gui-elements-for-mobile-games-video-games_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 968
+        width: 217
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09be64fcde3c3eb0800000000000000
+      internalID: -4738843589185980149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

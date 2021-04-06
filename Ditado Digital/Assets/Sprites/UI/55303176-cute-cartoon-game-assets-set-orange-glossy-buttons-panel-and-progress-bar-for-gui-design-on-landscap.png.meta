@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: db26ca2dfed59c846bd37d135ad5923c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7824916211500780754
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_0
+  - first:
+      213: 6160636447969901035
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_1
+  - first:
+      213: -5463427484246928958
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_2
+  - first:
+      213: 1407760737009759128
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_3
+  - first:
+      213: 8109769523129826375
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_4
+  - first:
+      213: -8984061829263443254
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_5
+  - first:
+      213: 5398088550611105128
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_6
+  - first:
+      213: -8838526564411342102
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_7
+  - first:
+      213: -466771975446859064
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_8
+  - first:
+      213: -7089154132947142185
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_9
+  - first:
+      213: -8434100769376378258
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_10
+  - first:
+      213: 3939703475555408375
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_11
+  - first:
+      213: -7201994138050669974
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_12
+  - first:
+      213: -205899227828996801
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_13
+  - first:
+      213: -8466879314255595298
+    second: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1028
+        width: 535
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23fc40f920586390800000000000000
+      internalID: -7824916211500780754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 838
+        width: 358
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c3174f960bb8070800000000000000
+      internalID: 8109769523129826375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 819
+        width: 186
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca3b9aad53325380800000000000000
+      internalID: -8984061829263443254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 648
+        width: 173
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865374dbfecd9ea40800000000000000
+      internalID: 5398088550611105128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 644
+        width: 174
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2886e0bee375580800000000000000
+      internalID: -8838526564411342102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 646
+        width: 114
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f1648c51b589f0800000000000000
+      internalID: -466771975446859064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 239
+        width: 640
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d971b340e34e9d90800000000000000
+      internalID: -7089154132947142185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 55303176-cute-cartoon-game-assets-set-orange-glossy-buttons-panel-and-progress-bar-for-gui-design-on-landscap_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 82
+        width: 649
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625b0f3d706d0c90800000000000000
+      internalID: -7201994138050669974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224070292006",
+    "project_id": "ditado-digital-53188",
+    "storage_bucket": "ditado-digital-53188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224070292006:android:3767a5fe4e445ac965cce7",
+        "android_client_info": {
+          "package_name": "alm.DefaultCompany.DitadoDigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224070292006-fjc7b63t6ss9q1o8477q5ku79ktk5uid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuMyIbkQ_qMnkVe4BPOyE6mv1X-Q1osk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224070292006-fjc7b63t6ss9q1o8477q5ku79ktk5uid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 1a0a6567f565a9346b59f5cc51df2de9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4275080183266699504
+    second: SpritesZoo_0
+  - first:
+      213: -8465600533311675389
+    second: SpritesZoo_1
+  - first:
+      213: -6807115883887257449
+    second: SpritesZoo_2
+  - first:
+      213: -6619235344838898664
+    second: SpritesZoo_3
+  - first:
+      213: -297027857287408751
+    second: SpritesZoo_4
+  - first:
+      213: 8116480791075694404
+    second: SpritesZoo_5
+  - first:
+      213: 3207354338091933526
+    second: SpritesZoo_6
+  - first:
+      213: 5570827686979157566
+    second: SpritesZoo_7
+  - first:
+      213: -8186378933074553460
+    second: SpritesZoo_8
+  - first:
+      213: -7347831584770478860
+    second: SpritesZoo_9
+  - first:
+      213: 4852142516591062046
+    second: SpritesZoo_10
+  - first:
+      213: 8597612850592173913
+    second: SpritesZoo_11
+  - first:
+      213: 2315822979617798856
+    second: SpritesZoo_12
+  - first:
+      213: -1183220939888815022
+    second: SpritesZoo_13
+  - first:
+      213: 4787620430555846852
+    second: SpritesZoo_14
+  - first:
+      213: -1013599196788812104
+    second: SpritesZoo_15
+  - first:
+      213: -5015332350775035207
+    second: SpritesZoo_16
+  - first:
+      213: 2610760164335698324
+    second: SpritesZoo_17
+  - first:
+      213: -5352111456486633921
+    second: SpritesZoo_18
+  - first:
+      213: 7870513731156531568
+    second: SpritesZoo_19
+  - first:
+      213: 782426381647815499
+    second: SpritesZoo_20
+  - first:
+      213: 5307990517952354057
+    second: SpritesZoo_21
+  - first:
+      213: 1191750319977472997
+    second: SpritesZoo_22
+  - first:
+      213: 417202763525945927
+    second: SpritesZoo_23
+  - first:
+      213: 6784701046031760293
+    second: SpritesZoo_24
+  - first:
+      213: -4639103018186039256
+    second: SpritesZoo_25
+  - first:
+      213: 6646528107337457190
+    second: SpritesZoo_26
+  - first:
+      213: 4222811038866088173
+    second: SpritesZoo_27
+  - first:
+      213: 5401975555905549510
+    second: SpritesZoo_28
+  - first:
+      213: -3924004343829043859
+    second: SpritesZoo_29
+  - first:
+      213: -6250516025989937209
+    second: SpritesZoo_30
+  - first:
+      213: 7753279633646376446
+    second: SpritesZoo_31
+  - first:
+      213: -6253167331025103684
+    second: SpritesZoo_32
+  - first:
+      213: -216423153790249901
+    second: SpritesZoo_0
+  - first:
+      213: -8786614518261580673
+    second: SpritesZoo_1
+  - first:
+      213: 2487404844734768283
+    second: SpritesZoo_2
+  - first:
+      213: 7257050008186478750
+    second: SpritesZoo_3
+  - first:
+      213: 8081339944566715107
+    second: SpritesZoo_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesZoo_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 418
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f86cedb6c2245b30800000000000000
+      internalID: 4275080183266699504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesZoo_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 397
+        width: 156
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304a999ea25248a80800000000000000
+      internalID: -8465600533311675389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesZoo_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 395
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7981bf35b244881a0800000000000000
+      internalID: -6807115883887257449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesZoo_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 407
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cca2a2680c324a0800000000000000
+      internalID: -6619235344838898664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesZoo_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 424
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1931dfdccbeb0ebf0800000000000000
+      internalID: -297027857287408751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesZoo_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 264
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447295ac64883a070800000000000000
+      internalID: 8116480791075694404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesZoo_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 272
+        width: 160
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f17c6f6cfc28c20800000000000000
+      internalID: 3207354338091933526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

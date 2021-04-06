@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: f1a75d5c15abbc24eb51321e2aad042f
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 21cb4f52f8ee3654598fa5b45c00f7c3
+  - enabled: 1
+    path: Assets/Scenes/Mapas.unity
+    guid: c0f057b3faa07d745b2927dd7e5ec56c
+  - enabled: 1
+    path: Assets/Scenes/ProxTuto.unity
+    guid: 75a233978752bb649a9aa80e39b87e16
+  - enabled: 1
+    path: Assets/Scenes/TelaPersonagem.unity
+    guid: 486132747cd9bab49b51b377f68f3e79
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 6b422e4573c70494db730f62d0b973c3
+  - enabled: 1
+    path: Assets/Scenes/Zoo/TranZoo1.unity
+    guid: 9bb5e236546056f47a94a6eb86d397c2
+  - enabled: 1
+    path: Assets/Scenes/Zoo/TranZoo2.unity
+    guid: 015ba5c295e6c1f4182c148b403e8b94
+  - enabled: 1
+    path: Assets/Scenes/Zoo/TranZoo3.unity
+    guid: af14c065ebe4bce46bc57a572948f870
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/1-Urso.unity
+    guid: 0fede84cee91e6449b9d29a74de8e9c5
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/2-Camelo.unity
+    guid: 6a8acf396285c5345837f81396845844
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/3-Macaco.unity
+    guid: baab5b964860dd842be34bcc663aa18f
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/4-Jaula.unity
+    guid: 5c4cf0d6a37e9d7439d3e4b086725b9f
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/5-Sorvete.unity
+    guid: ff707ba89d03aca4b8af42b9f4c4fbaf
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/6-Canguru.unity
+    guid: e8a22151556f643418aefb86511e41f6
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/7-Coruja.unity
+    guid: c46603b6477dd324095e932264747d87
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/8-Gorila.unity
+    guid: defcc6c3ffcc99144bdfe931ada99426
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/9-Flamingo.unity
+    guid: 2f45d67cf9c030c4094717f5193c54ce
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/10-Ema.unity
+    guid: 9a460484d5c3954449bab64a24623250
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/11-Pato.unity
+    guid: 046376baabd3bfc4c83d31c5f816cad5
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/12-Veado.unity
+    guid: 7419a806e8abcad4cb45b16065ea21f0
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/13-Tucano.unity
+    guid: 12f6f03660e92e644a643f4996407f3e
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Faceis/14-Lago.unity
+    guid: cd825ac324c04624894fe1f47aa2715d
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/1-Elefante.unity
+    guid: c66b506bdd33a9b4b9ccf1f5ef0f3bc7
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/2-Zebra.unity
+    guid: 41f7a9b0c1119744db2664c647076968
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/3-Tartaruga.unity
+    guid: 29c10070540fabb47ac69b36882c215c
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/4-Tigre.unity
+    guid: 5143018f0b3ec93439660c119cf988d8
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/5-Arara.unity
+    guid: 6789e9dcb01601d49b22a4704a7bd3a3
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/6-Lagarto.unity
+    guid: dfa88b15657ab7c49827e48876595593
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/7-Borboleta.unity
+    guid: f0e7f0be523140d4f947808d356e0705
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/8-Leao.unity
+    guid: 6e0aa655e869ac44aa0d129c9a9d51de
+  - enabled: 1
+    path: "Assets/Scenes/Zoo/Medias/9-On\xE7a.unity"
+    guid: 6f3d3eeb53f530d428effa0b3ecc080e
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/10-Balao.unity
+    guid: 6b8b4fe5295ea944c92e64b516b3dfa2
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/11-Cacatua.unity
+    guid: 59cee9e46a3070340aba33700d82a029
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/12-Serpente.unity
+    guid: 2e680c6c4f3ab294abcbd92219b55f55
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Medias/13-Grade.unity
+    guid: 9191be3d62628b9438918bb2a485e7e9
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/1-Caturrita.unity
+    guid: 6d93c26d1bff9a64285bc829f5b92b19
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/2-Hippo.unity
+    guid: 29cb140e8aea4bf4db763c5ee790f3e1
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/3-Coelho.unity
+    guid: 149d89fbc83b0434884be48228ce90d2
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/4-Piranha.unity
+    guid: 6cb62e96a9561074f8ac7377d4419ad7
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/5-Golfinho.unity
+    guid: 93abf4a39c8b17e4aa205b02e2e98551
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/6-Passarinho.unity
+    guid: 962c03c0c72eb5e4f9dd0803ba335a4f
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/7-Arraia.unity
+    guid: b3f937a74b99eb74b930a00043f6e042
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/8-Pipocs.unity
+    guid: f6cebea239f103248b9fb372a148092c
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/9-Cegonha.unity
+    guid: b7e46b40e4494814bb50bb3c881a62ab
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/10-Chimp.unity
+    guid: 994dcd7b2294d844da42415d8ca52bfe
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/11-Iguana.unity
+    guid: 5bd9dbb122249df419592040420fe6b2
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/12-Bufalo.unity
+    guid: c4e0a0a4a91a7c44e8706d60afb7f2d9
+  - enabled: 1
+    path: Assets/Scenes/Zoo/Dificeis/13-Zoo.unity
+    guid: 63abb1da60928ff45accbe64037ce016
+  - enabled: 1
+    path: Assets/Scenes/Parque/TranParq1.unity
+    guid: a12ee6d294ad45e4582b46f68bda8443
+  - enabled: 1
+    path: Assets/Scenes/Parque/TranParq2.unity
+    guid: 886c0c32bfd217043a7dc0d6968dc1fd
+  - enabled: 1
+    path: Assets/Scenes/Parque/TranParq3.unity
+    guid: 08b316dcbba3caa46a0038a3cb559e4a
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/1-Pipoca.unity
+    guid: 5e3969a16ab992b49b53a8291cec8ae4
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/2-Roleta.unity
+    guid: fe1bcea691cf3b34b90a719b72117c91
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/3-Loja.unity
+    guid: 38a1c7f52c7819d48a05a24c9a82d95f
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/4-Restaurante.unity
+    guid: 32fb2250d1fd37d41bb56b5845b3009d
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/5-Jogos.unity
+    guid: 2d906a0a28c9155499aaed9c7777f03d
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/6-Fantasia.unity
+    guid: e93efa66ce63ed14083ea9be87f79974
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/7-Pula.unity
+    guid: 84df238a1b9dd8e4494e43897d549a53
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/8-Tiro.unity
+    guid: 6b3fbf75685cdf845bef20e014f35ff0
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/9-Pescaria.unity
+    guid: ae0e766b2cc88c24abb38dea6dae4da8
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/10-Argolas.unity
+    guid: b65a8383d77c22c41a80ca36553eaa6d
+  - enabled: 1
+    path: Assets/Scenes/Parque/faceis/11-Balas.unity
+    guid: 4686e1f2ba59911408880fbff221e80b
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/1-Roda.unity
+    guid: abbec677b00b85547b7e7ad81a740afd
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/2-Fliper.unity
+    guid: 153b2de4c6d5fed4191628850802c95c
+  - enabled: 1
+    path: "Assets/Scenes/Parque/medias/3-Algod\xE3o.unity"
+    guid: ea82c3482e01f7243be4c587d9620c22
+  - enabled: 1
+    path: "Assets/Scenes/Parque/medias/4-Bal\xE3o.unity"
+    guid: bc9279bc4612345499035b73732d5163
+  - enabled: 1
+    path: "Assets/Scenes/Parque/medias/5-Crian\xE7a.unity"
+    guid: 674cfa10e9d092342aa87c70ea403826
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/6-Banheiro.unity
+    guid: e2078fe5d709d784e952cac394a84e39
+  - enabled: 1
+    path: "Assets/Scenes/Parque/medias/7-Seguran\xE7a.unity"
+    guid: ed0dc0aa301d78041bcf5b8ac5af90b9
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/8-Divers.unity
+    guid: 6739842f86ff1ea4fb7ac365b7b2e138
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/9-Trem.unity
+    guid: 57e12970b5ef87649bc27a941b4d7b1d
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/10-Bilhete.unity
+    guid: b9d5fbe6910c56642a02bd892b4b5ada
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/11-Brinquedo.unity
+    guid: 8259fc1cb5cd94d4b8a09d58814a8079
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/12-Salgado.unity
+    guid: 9896b2d7f751f5f4596c87c5ec54624c
+  - enabled: 1
+    path: Assets/Scenes/Parque/medias/13-Barraca.unity
+    guid: d4d01551b45819148914939d946251cf
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/1-Pedal.unity
+    guid: a5d8dc2af8558d143bc021616a816729
+  - enabled: 1
+    path: "Assets/Scenes/Parque/dificeis/2-Palha\xE7o.unity"
+    guid: 375637884d048af4b866f04bf04c5159
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/3-Carro.unity
+    guid: 3c8f5135d85bdf34e93c0e16854d68e4
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/4-Cachorro.unity
+    guid: 4d8ba2fe55c67264e8c0d956fb021bda
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/5-Montanha.unity
+    guid: 6f1c7d5dd5d33a54fbf1ef7ffd546af0
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/6-Refri.unity
+    guid: 40901eb9a899dd745b230d75d655183e
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/7-Bate.unity
+    guid: 05a211886bf6ae24aba3eb58a60f292c
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/8-Touro.unity
+    guid: fe607060249e84347a74c494f36655bb
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/9-Agua.unity
+    guid: 8e787879b1db80d4e8cfdc32664494a4
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/10-Familia.unity
+    guid: 0424df39538bad04fa6b2d7ec7def466
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/11-Piscina.unity
+    guid: 7f3bc2d9059f05c4dba6f2d7383782e8
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/12-Estaciona.unity
+    guid: a134b1f14c740ea44a5d15f0060b8d95
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/13-Atendente.unity
+    guid: 5640c11f36464ce449709f45a9f3f85e
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/14-Lancho.unity
+    guid: 044964163680d9447afc40647b12dce6
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/15-Fralda.unity
+    guid: 17da749b8ac50854f9fa0ddc6a45babc
+  - enabled: 1
+    path: Assets/Scenes/Parque/dificeis/16-Saida.unity
+    guid: 241eccb700194e445827093ef292fa99
+  m_configObjects: {}

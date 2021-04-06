@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">224070292006</string>
+  <string name="google_storage_bucket" translatable="false">ditado-digital-53188.appspot.com</string>
+  <string name="project_id" translatable="false">ditado-digital-53188</string>
+  <string name="google_api_key" translatable="false">AIzaSyBuuMyIbkQ_qMnkVe4BPOyE6mv1X-Q1osk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBuuMyIbkQ_qMnkVe4BPOyE6mv1X-Q1osk</string>
+  <string name="google_app_id" translatable="false">1:224070292006:android:3767a5fe4e445ac965cce7</string>
+  <string name="default_web_client_id" translatable="false">224070292006-fjc7b63t6ss9q1o8477q5ku79ktk5uid.apps.googleusercontent.com</string>
+</resources>
